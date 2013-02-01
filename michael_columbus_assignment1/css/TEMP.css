@@ -1,0 +1,79 @@
+/******************************************************************
+* Description: Stlye Sheet for home page
+* Author: Michael Columbus
+* css 1
+******************************************************************/
+
+body {
+    background-color: #FACD8A;
+}
+
+A {
+	color:#3F0;
+	
+	
+}
+
+A:hover {
+ COLOR: Red 
+}
+
+A:active {
+	color:#666
+}
+
+#Navbar {
+	
+	background-color:#609
+	padding:5px;
+	float:left;
+	margin-top:100px;	
+	margin-left:50PX;
+	border:2px solid gray;
+	width:400px;
+	text-align:center;
+	text-wrap:normal;
+	
+	
+}
+
+
+
+#companyLogo {
+	
+	
+	padding:0px;
+	margin-top:10px;
+	margin-left:10px;
+	float:left;
+	
+		
+}
+	
+	
+	
+
+#tag {
+	clear:both;
+	margin-top:0px;
+	margin-right:400px;
+	padding:10px;
+	border:2px solid gray;
+	float:right;
+	
+}
+
+#panel {
+	clear:both;
+	margin-top:0px;
+	margin-right:100px;
+	padding:10px;
+	border:5px solid gray;
+	float:right;
+}
+
+
+footer {
+	clear:both;
+	margin-left: 400px;
+}

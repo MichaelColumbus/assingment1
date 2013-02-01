@@ -1,0 +1,64 @@
+@charset "utf-8";
+/******************************************************************
+* Description: Stlye Sheet for about page
+* Author: Michael Columbus
+* css 2
+******************************************************************/
+
+body {
+	background:#0FF;
+}
+
+A {
+	color:#3F0;
+	
+	
+}
+
+
+A:hover {
+ color: Red 
+}
+
+A:active {
+	color:#666
+}
+
+#Navbar {
+	
+	padding:0px;
+	float:left;
+	margin-top:100px;	
+	margin-left:50PX;
+	border:2px solid gray;
+	width:400px;
+	text-align:center;
+	text-wrap:normal;
+}
+#bio {
+	clear:both;
+	margin-left: 300px;
+}
+
+#Project {
+	clear:both;
+	margin-top: 100px;
+	margin-left: 100px;
+}
+
+#contact {
+	clear:both;
+	margin-top: 100px;
+	margin-left: 100px;
+}
+
+#panel {
+	margin-top: 100px;
+	margin-left: 100px;
+}
+
+footer {
+	clear:both;
+	margin-left: 200px;
+}
+
