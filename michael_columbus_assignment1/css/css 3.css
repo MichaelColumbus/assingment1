@@ -1,0 +1,14 @@
+/******************************************************************
+* Description: Stlye Sheet for home page
+* Author: Michael Columbus
+* css 3
+******************************************************************/
+
+body{
+	background-color:#90F;
+}
+
+#Project {
+	margin: 300px;
+	text-align:center;
+}
