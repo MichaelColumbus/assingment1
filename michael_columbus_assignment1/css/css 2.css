@@ -4,17 +4,21 @@
 * Author: Michael Columbus
 * css 2
 ******************************************************************/
+/*for body color*/
+
 
 body {
 	background-color:#FF0;
 }
 
+/*for link color*/
 
 A {
 	color:#3F0;
 	
 }
 
+/*for link hover*/
 
 A:hover {
  color: Red 
@@ -23,6 +27,8 @@ A:hover {
 A:active {
 	color:#666
 }
+
+/*for Navbar layout*/
 
 #Navbar {
 	
@@ -36,33 +42,44 @@ A:active {
 	text-wrap:normal;
 	
 }
+
+/*for bio layout*/	
+
 #bio {
 	clear:both;
 	margin-left: 300px;
 }
+
+/*for Project image layout*/
 
 #Project {
 	clear:both;
 	margin-top: 100px;
 	margin-left: 100px;
 }
-
+/*for contact detail layout*/
 #contact {
 	clear:both;
 	margin-top: 100px;
 	margin-left: 100px;
 }
 
+/* div layout */
+
 #panel {
 	margin-top: 100px;
 	margin-left: 100px;
 }
+
+/*for servics detail layout*/
 
 #servics {
 	clear:both;
 	margin-top: 20px;
 	margin-left: 250px;	
 }
+
+/* the footer for the web page. */
 
 footer {
 	clear:both;

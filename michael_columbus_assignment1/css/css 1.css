@@ -3,17 +3,18 @@
 * Author: Michael Columbus
 * css 1
 ******************************************************************/
+/*for body color*/
 
 body {
     background-color: #FACD8A;
 }
-
+/*for link color*/
 A {
 	color:#3F0;
 	
 	
 }
-
+/*for link hover*/
 A:hover {
  COLOR: Red 
 }
@@ -22,7 +23,7 @@ A:active {
 	color:#666
 	
 }
-
+/*for Navbar layout*/
 #Navbar {
 	
 	background-color:#609
@@ -38,7 +39,7 @@ A:active {
 	
 }
 
-
+/* company logo layout */
 
 #companyLogo {
 	
@@ -52,7 +53,7 @@ A:active {
 }
 	
 	
-	
+/* layout for div */	
 
 #tag {
 	clear:both;
@@ -73,6 +74,7 @@ A:active {
 	float:right;
 }
 
+/* footer layout */
 
 footer {
 	clear:both;
