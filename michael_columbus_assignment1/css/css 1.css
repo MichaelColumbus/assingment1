@@ -6,7 +6,7 @@
 /*for body color*/
 
 body {
-    background-color: #FACD8A;
+    background-color:#F93;
 }
 /*for link color*/
 A {
@@ -16,7 +16,7 @@ A {
 }
 /*for link hover*/
 A:hover {
- COLOR: Red 
+ hover:#F00 
 }
 
 A:active {
