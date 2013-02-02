@@ -9,9 +9,9 @@ body {
 	background-color:#FF0;
 }
 
+
 A {
 	color:#3F0;
-	
 	
 }
 
@@ -29,11 +29,12 @@ A:active {
 	padding:0px;
 	float:left;
 	margin-top:100px;	
-	margin-left:50PX;
+	margin-left:150PX;
 	border:2px solid gray;
 	width:400px;
 	text-align:center;
 	text-wrap:normal;
+	
 }
 #bio {
 	clear:both;
@@ -57,8 +58,14 @@ A:active {
 	margin-left: 100px;
 }
 
+#servics {
+	clear:both;
+	margin-top: 20px;
+	margin-left: 250px;	
+}
+
 footer {
 	clear:both;
-	margin-left: 200px;
+	margin-left: 250px;
 }
 
